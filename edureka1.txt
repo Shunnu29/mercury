@@ -1,1 +1,2 @@
 hi i am a devops trainer
+adding the new line
